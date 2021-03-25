@@ -1,6 +1,6 @@
 /*
 店铺签到，各类店铺签到，有新的店铺直接添加token即可
-0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unsubscribe.js
+cron "0 0 * * * "https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unsubscribe.js
 */
 
 const $ = new Env('跑路·······');
