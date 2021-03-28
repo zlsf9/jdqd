@@ -14,7 +14,7 @@ cron "0 0 * * *" script-path=https://raw.githubusercontent.com/Misaka09982/AutoS
 */
 
 
-const $ = new Env('跑路·······');
+const $ = new Env('最后一次更新了明天换新脚本 token将从群内获取 不在的可以删掉了');
 
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
